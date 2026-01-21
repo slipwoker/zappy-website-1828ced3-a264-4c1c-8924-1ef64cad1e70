@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shay-aizenberg-1828ced3.zappy5.app/sitemap.xml

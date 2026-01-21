@@ -1,0 +1,57 @@
+# Shay AIZENBERG — Generative Engine Optimization Map
+
+> A שיווק דיגיטלי ופיתוח אתרים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://shay-aizenberg-1828ced3.zappy5.app
+בניית דפי נחיתה מקצועיים שמביאים לידים אמיתיים. התייעצות חינם עם מומחה שיווק דיגיטלי.
+
+### שירותים
+https://shay-aizenberg-1828ced3.zappy5.app/services
+מגוון שירותי בניית דפי נחיתה מקצועיים - עיצוב, פיתוח, אופטימיזציה והמרות. פתרונות שיווק דיגיטלי מותאמים אישית.
+
+### אודות
+https://shay-aizenberg-1828ced3.zappy5.app/about
+הכירו את שי איזנברג - מומחה בניית דפי נחיתה מקצועיים ושיווק דיגיטלי. שנים של ניסיון בהבאת תוצאות אמיתיות לעסקים.
+
+### צור קשר
+https://shay-aizenberg-1828ced3.zappy5.app/contact
+צור קשר עם מומחה בניית דפי נחיתה מקצועיים. קבל ייעוץ חינם ותכנון אסטרטגי לשיווק דיגיטלי שמניב תוצאות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://shay-aizenberg-1828ced3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shay-aizenberg-1828ced3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shay-aizenberg-1828ced3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Shay AIZENBERG
+Shay AIZENBERG is a business in the שיווק דיגיטלי ופיתוח אתרים industry.
+
+## Target Audience
+עסקים המחפשים לידים
+
+## Industry
+שיווק דיגיטלי ופיתוח אתרים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://shay-aizenberg-1828ced3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shay-aizenberg-1828ced3.zappy5.app/robots.txt
